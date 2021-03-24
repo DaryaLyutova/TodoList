@@ -1,6 +1,6 @@
 # TodoList
 
-Todo List на React и TypeScript, данные определены в глобальную область видимости с помощью MobX. Верстка с использованием Styled Components и Styled System.
+Todo List на React и TypeScript, состоянием приложения управляет MobX. Верстка с использованием Styled Components и Styled System.
 
 ### Инструкция по установке:
 ###### Клонировать репозиторий:
